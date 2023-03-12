@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,30&height=300&section=header&text=elmellamo's%20Github!&animation=fadeIn&fontSize=60)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elmellamo&repo=github-readme-stats)](https://github.com/elmellamo/github-readme-stats)
