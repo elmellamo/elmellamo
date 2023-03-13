@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,30&height=300&section=header&text=elmellamo's%20Github!&animation=fadeIn&fontSize=60)
 
 # ✨ Skills
-https://img.shields.io/static/v1?message=JAVA&color=orange
+![JAVA](https://img.shields.io/badge/-JAVA-DD8752?style=flat-square)
 
 # 🔥 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true)
