@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+# 📬 Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th6986@gmail.com)](mailto:th6986@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:th6986@naver.com)](mailto:th6986@naver.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-03C75A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssorrot/)](https://www.instagram.com/ssorrot/)
