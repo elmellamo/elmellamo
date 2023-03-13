@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,30&height=300&section=header&text=elmellamo's%20Github!&animation=fadeIn&fontSize=60)
 
+# ✨ Skills
+https://img.shields.io/static/v1?message=<JAVA>&color=<orange>
+
 # 🔥 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
