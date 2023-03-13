@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,30&height=300&section=header&text=elmellamo's%20Github!&animation=fadeIn&fontSize=60)
 
 # ✨ Skills
-![JAVA](https://img.shields.io/badge/-JAVA-DC953A?style=flat-square)
+![JAVA](https://img.shields.io/badge/-JAVA-FF8C0A?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-8C8CF5?style=flat-square)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0000FF?style=flat-square)
 
