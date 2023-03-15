@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 # 💎 About Me
-
+{: .text-center} :
 | **Type**  | **Date**        | **Org.**                | **Contents**                              |
 |-----------|-----------------|-------------------------|-------------------------------------------|
 | Education | 2015.3 ~ 2020.2 | Ewha Womans Univ        | Major in Early Childhood Education        |
