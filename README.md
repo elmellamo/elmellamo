@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elmellamo)](https://solved.ac/elmellamo/)
-![mazandi profile](http://mazandi.herokuapp.com/api?elmellamo={elmellamo}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={elmellamo}&theme=warm"/>
+  
   
 </div>
 
