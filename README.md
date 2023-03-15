@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,30&height=300&section=header&text=elmellamo's%20Github!&animation=fadeIn&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=elmellamo's%20Github!&animation=fadeIn&fontSize=60)
 
 # ✨ Skills
 ![JAVA](https://img.shields.io/badge/-JAVA-FF8C0A?style=flat-square)
