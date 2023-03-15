@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 |:---------:|:---------------:|:-----------------------:|:-----------------------------------------:|
 | Education | 2015.03 - 2020.02 | Ewha Womans Univ        | Major in Early Childhood Education        |
 | Education | 2021.03 -        | Kyungpook National Univ | Major in Mobile Engineering               |
-| Project   | 2022.05 - 2022.06 | My_R_project (냉장보고) | https://github.com/elmellamo/My_R_project |
-| Project   | 2022.05 - 2022.06 | N-Questions             | https://github.com/SubinPyeon/N-Questions |
-| Project   | 2022.09 - 2023.02 | DoDamDoDam              | https://github.com/elmellamo/DoDamDoDam   |
+| Project   | 2022.05 - 2022.06 | My_R_project (냉장보고) | [Github](https://github.com/elmellamo/My_R_project) |
+| Project   | 2022.05 - 2022.06 | N-Questions             | [Github](https://github.com/SubinPyeon/N-Questions) |
+| Project   | 2022.09 - 2023.02 | DoDamDoDam              | [Github](https://github.com/elmellamo/DoDamDoDam)   |
 
 # 🔥 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true)[![GitHub Streak](https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
