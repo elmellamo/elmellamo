@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 
 # 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th6986@gmail.com)](mailto:th6986@gmail.com)
-[![Blog Badge](https://img.shields.io/badge/Naver%20Blog-FF607F?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/th6986)](https://blog.naver.com/th6986)
+[![Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/th6986)](https://blog.naver.com/th6986)
 
