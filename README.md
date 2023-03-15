@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 💎 About Me
 | **Type**  | **Date**        | **Org.**                | **Contents**                              |
-|-----------|-----------------|-------------------------|-------------------------------------------|
+|:---------:|-----------------|-------------------------|-------------------------------------------|
 | Education | 2015.3 ~ 2020.2 | Ewha Womans Univ        | Major in Early Childhood Education        |
 | Education | 2021.3 ~        | Kyungpook National Univ | Major in Mobile Engineering               |
 | Project   | 2022.5 ~ 2022.6 | My_R_project (냉장보고) | https://github.com/elmellamo/My_R_project |
