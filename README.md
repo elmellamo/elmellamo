@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 # 🔥 Status
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="s">
   <img src="https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" />
