@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,30&height=300&section=header&text=elmellamo's%20Github!&animation=fadeIn&fontSize=60)
 
 # ✨ Skills
@@ -39,4 +41,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th6986@gmail.com)](mailto:th6986@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:th6986@naver.com)](mailto:th6986@naver.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-FF607F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssorrot/)](https://www.instagram.com/ssorrot/)
+
+
 </div>
