@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true)[![GitHub Streak](https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # 🎯 Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elmellamo)](https://solved.ac/elmellamo/)
+<center>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elmellamo)](https://solved.ac/elmellamo/)</center>  
 
 # 📬 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:th6986@gmail.com)](mailto:th6986@gmail.com)
