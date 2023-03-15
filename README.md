@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 # 💎 About Me
-{: .text-center} :
+<center>가운데
 | **Type**  | **Date**        | **Org.**                | **Contents**                              |
 |-----------|-----------------|-------------------------|-------------------------------------------|
 | Education | 2015.3 ~ 2020.2 | Ewha Womans Univ        | Major in Early Childhood Education        |
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 | Project   | 2022.5 ~ 2022.6 | My_R_project (냉장보고) | https://github.com/elmellamo/My_R_project |
 | Project   | 2022.5 ~ 2022.6 | N-Questions             | https://github.com/SubinPyeon/N-Questions |
 | Project   | 2022.9 ~ 2023.2 | DoDamDoDam              | https://github.com/elmellamo/DoDamDoDam   |
-
+</center>
 # 🔥 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true)[![GitHub Streak](https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
