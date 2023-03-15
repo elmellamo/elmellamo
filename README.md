@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 # 🎯 Algorithm
 <div align="center">
 
-
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle={elmellamo}&theme=dark)]
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elmellamo)](https://solved.ac/elmellamo/)
-[![mazandi profile](http://mazandi.herokuapp.com/api?handle={elmellamo}&theme=dark)](https://solved.ac/elmellamo/)
+
   
   
 </div>
