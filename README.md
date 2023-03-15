@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ![JAVA](https://img.shields.io/badge/-JAVA-FF8C0A?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-8C8CF5?style=flat-square)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0000FF?style=flat-square)
-<center>가운데</center>
 
 # 💎 About Me
 | **Type**  | **Date**        | **Org.**                | **Contents**                              |
