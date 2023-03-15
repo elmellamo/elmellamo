@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 | Project   | 2022.9 ~ 2023.2 | DoDamDoDam              | https://github.com/elmellamo/DoDamDoDam   |
 
 # 🔥 Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmellamo&count_private=true&show_icons=true&include_all_commits=true)[![GitHub Streak](https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # 🎯 Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elmellamo)](https://solved.ac/elmellamo/)
