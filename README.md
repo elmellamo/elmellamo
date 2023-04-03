@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 
 # ✨ Skills
 __🫠I use..__    
+    
 ![JAVA](https://img.shields.io/badge/-JAVA-FF8C0A?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-8C8CF5?style=flat-square)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0000FF?style=flat-square)
 
 __😘And I have experienced ..__    
+    
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 # 💎 About Me
