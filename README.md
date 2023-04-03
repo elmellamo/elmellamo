@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=elmellamo's%20Github!&animation=fadeIn&fontSize=60)
 
 # ✨ Skills
-__🫠I use..__
+__🫠I use..__    
 ![JAVA](https://img.shields.io/badge/-JAVA-FF8C0A?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-8C8CF5?style=flat-square)
 ![PYTHON](https://img.shields.io/badge/-PYTHON-0000FF?style=flat-square)
 
-__😘And I have experienced ..__
+__😘And I have experienced ..__    
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 # 💎 About Me
