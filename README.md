@@ -35,7 +35,7 @@ __😘And I have experienced ..__
 | Project   | 2022.09 - 2023.02 | DoDamDoDam              | [Github](https://github.com/elmellamo/DoDamDoDam)   |
 
 # 🔥 Status
-user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elmellamo&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # 🎯 Algorithm
 <div align="center">
